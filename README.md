@@ -8,7 +8,7 @@
 
 - **🎨 Customizable Colors**: Choose your vibe! Select from Red, Blue, Green, or Yellow pawns.
 - **⚔️ Local Multiplayer**: Competitive 1v1 strategy on a single device.
-- **🔄 Two-Phase Gameplay**: 
+- **🔄 Two-Phase Gameplay**:
   - **DROP Phase**: Strategically place your pawns on the board.
   - **MOVE Phase**: Once all pawns are placed, slide them across the board to outsmart your opponent!
 - **🌈 Neon Glow UI**: A sleek, dark-themed interface with glowing visual effects for a premium feel.
@@ -33,17 +33,20 @@ Make sure you have [Node.js](https://nodejs.org/) and [Expo Go](https://expo.dev
 ### Installation
 
 1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com/your-username/tictac2plus.git
+   git clone https://github.com/rsahroni/tictac2plus.git
    cd tictac2plus
    ```
 
 2. **Install dependencies:**
+
    ```bash
    npm install
    ```
 
 3. **Start the development server:**
+
    ```bash
    npx expo start
    ```
@@ -63,8 +66,8 @@ Make sure you have [Node.js](https://nodejs.org/) and [Expo Go](https://expo.dev
 
 ## 🎨 Preview
 
-| Home Screen | Gameplay |
-| :---: | :---: |
+|  Home Screen  |   Gameplay    |
+| :-----------: | :-----------: |
 | _Coming Soon_ | _Coming Soon_ |
 
 ---
